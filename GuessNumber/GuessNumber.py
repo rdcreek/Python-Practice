@@ -1,5 +1,5 @@
 import random
-import simplegui
+import simplegui  #This is a module from CodeSkulptor
 
 secretNum = 0
 NumRange = 100
